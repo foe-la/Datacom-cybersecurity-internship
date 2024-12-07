@@ -19,8 +19,7 @@ Throughout the program, I honed critical skills like risk assessment, research, 
 - Security Analysis
 
 ## Task One: APT breach: analysing the impact on information security
-
-## Overview:
+<b> Overview: </b>
 This task simulates a real-world scenario where I, as a cybersecurity professional, must investigate a cyberattack targeting a client. The objective is to analyze the attack, identify its root cause, assess its impact, and provide actionable recommendations to strengthen the client’s security posture.
 
 ## Steps Involved:
@@ -54,3 +53,27 @@ This task simulates a real-world scenario where I, as a cybersecurity profession
 
 ### Outcome:
 By completing this task, I developed the ability to investigate cyberattacks systematically, analyze technical details, and communicate findings effectively to technical and non-technical stakeholders. This experience reflects the practical responsibilities of cybersecurity consultants and prepares me for addressing real-world cyber threats.
+
+## Task Two: Cybersecurity Risk Assessment
+<b> Overview: </b>
+This task involved conducting a comprehensive risk assessment for a client to identify potential security threats, evaluate vulnerabilities, and develop mitigation strategies. The goal was to help the client understand their risk landscape, prioritize risks, and implement effective security measures.
+
+## Steps Involved:
+
+### Risk Context Definition:
+- Defined the client’s security context, including physical security, IT assets, and data protection needs.
+- Considered the potential impact of APT34’s tactics, techniques, and procedures (TTPs).
+### Risk Matrix Assessment:
+- Evaluated threats across key categories, including credential theft, physical security breaches, software vulnerabilities, and insider risks.
+- Assessed risk levels for each scenario based on likelihood and impact, with and without existing controls.
+### Risk Scenario Identification:
+- Identified realistic scenarios such as phishing attacks, unpatched system vulnerabilities, and physical intrusions.
+- Mapped threats to critical assets to understand their potential impact.
+### Mitigation Strategy Development:
+- Proposed actionable mitigation strategies, including:
+     - Implementing multi-factor authentication (MFA).
+     - Enhancing patch management processes.
+     - Upgrading perimeter security with advanced physical controls.
+     - Conducting employee training to mitigate phishing risks.
+## Outcome:
+Through this task, I developed expertise in conducting thorough cybersecurity risk assessments. This included identifying vulnerabilities, assessing risks, and providing strategic recommendations to strengthen an organization’s security posture. These skills are essential for effectively managing risk in a professional cybersecurity context.
